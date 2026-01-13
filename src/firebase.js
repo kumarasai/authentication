@@ -9,7 +9,7 @@ import firebase from "firebase/compat/app";
 
 
 const firebaseConfig = {
-  apiKey: "cAIzaSyCp90L-MZQ3QSQH_nqHnLsh-wJfucwIQKk",
+  apiKey: "AIzaSyCp90L-MZQ3QSQH_nqHnLsh-wJfucwIQKk",
   authDomain: "sign-in-3dff6.firebaseapp.com",
   projectId: "sign-in-3dff6",
   storageBucket: "sign-in-3dff6.firebasestorage.app",
